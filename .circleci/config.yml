@@ -159,7 +159,7 @@ jobs:
             - LICENSE
             - package.json
             - package-lock.json
-            - koa-objectid-middleware.package.test.js
+            - middleware.package.test.js
             - index.js
             - .npmignore
             - haensl-koa-objectid-middleware.tgz
